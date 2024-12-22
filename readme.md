@@ -20,7 +20,7 @@ As a competitive programmer, I wanted to improve my practice routine by solving 
 
 ### Solved Problems Counter
 
-![Solved Problems Counter](file-R9RSzD1Xu3b996SuRjcPjE)
+<img width="959" alt="Screenshot 2024-12-22 230728" src="https://github.com/user-attachments/assets/28d918cf-f507-4564-bfa1-81af02c9791a" />
 
 ### Popup Menu
 
