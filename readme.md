@@ -37,7 +37,7 @@ As a competitive programmer, I wanted to improve my practice routine by solving 
 
 ### Content Script
 
-- Injects into Codeforces Problemset pages to count and display the number of solved and attempted problems.
+- Inspects into Codeforces Problemset pages to count number of accepted and rejected problems. Then displays accepted problem as Solved provlems and displays total of accepted and rejected problem as attempted problems.
 
 ### Popup Menu
 
