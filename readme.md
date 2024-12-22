@@ -24,11 +24,7 @@ As a competitive programmer, I wanted to improve my practice routine by solving 
 
 ### Popup Menu
 
-![Popup Menu](file-UtfqHUr7Z3X7gdxtMW1pjM)
-
-### Settings
-
-![Settings](file-UB9YibAdevXgQjSvZMFZ26)
+<img width="959" alt="Screenshot 2024-12-22 230909" src="https://github.com/user-attachments/assets/60e81ed1-a30e-4da5-91ab-e087989a5783" />
 
 ## Installation
 
@@ -50,6 +46,7 @@ As a competitive programmer, I wanted to improve my practice routine by solving 
 ### Settings
 
 - Ensure that the "Hide solved problems" option is unchecked to display all solved problems properly.
+<img width="224" alt="Screenshot 2024-12-22 231701" src="https://github.com/user-attachments/assets/be839f86-366a-4103-810c-beb7778c7fa3" />
 
 ## Usage
 
