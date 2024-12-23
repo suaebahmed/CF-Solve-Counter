@@ -32,6 +32,7 @@ I wanted to improve my practice by solving 5 problems daily from different ratin
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** (toggle in the top-right corner).
 4. Click on **Load unpacked** and select the extension folder.
+5. Pin the extension to your browser toolbar for quick access.
 
 ## How It Works
 
