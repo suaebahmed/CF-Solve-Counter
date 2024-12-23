@@ -14,7 +14,7 @@ A Chrome extension designed to enhance the Codeforces experience by providing re
 
 ## Motivation
 
-As a competitive programmer, I wanted to improve my practice routine by solving 5 problems daily from different rating categories (1000-1400). My plan was to solve problems from the first page of each category. While looking for an extension to show the number of solved problems per page, I couldn't find one. Hence, I decided to create this extension. The additional popup menu makes navigation even more convenient.
+I wanted to improve my practice by solving 5 problems daily from different rating categories (1000-1400 one from each). My plan was to solve all problems from the first page of each category. While looking for an extension to show the number of solved problems per page, I couldn't find one. Hence, I decided to create this extension. The additional popup menu makes navigation even more convenient.
 
 ## Screenshots
 
