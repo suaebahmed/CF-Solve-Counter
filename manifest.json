@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "CF Solve Counter - by FA3",
+  "name": "CF Finder - Improved and Simplified by Suaeb",
   "version": "1.1",
-  "description": "Displays the number of solved problems and adds a popup feature on Codeforces.",
+  "description": "Displays rated-wise problemset and adds a popup feature on Codeforces.",
   "permissions": ["activeTab", "storage"],
   "host_permissions": ["https://codeforces.com/*"],
   "content_scripts": [

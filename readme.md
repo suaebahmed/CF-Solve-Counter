@@ -1,4 +1,5 @@
-# CF Solve Counter - by FA3
+# CF Rated-wise Problems Finder - Improved and Simplified by Suaeb
+- This is a fork of the original extension by [Fatin007](https://github.com/Fatin007/CF-Solve-Counter---by-FA3)
 
 A Chrome extension designed to enhance the Codeforces experience by providing real-time statistics on solved problems and quick access to problem sets of different ratings.
 
@@ -17,10 +18,6 @@ A Chrome extension designed to enhance the Codeforces experience by providing re
 I wanted to improve my practice by solving 5 problems daily from different rating categories (1000-1400 one from each). My plan was to solve all problems from the first page of each category. While looking for an extension to show the number of solved problems per page, I couldn't find one. Hence, I decided to create this extension. The additional popup menu makes navigation even more convenient.
 
 ## Screenshots
-
-### Solved Problems Counter
-
-<img width="959" alt="Screenshot 2024-12-22 230728" src="https://github.com/user-attachments/assets/28d918cf-f507-4564-bfa1-81af02c9791a" />
 
 ### Popup Menu
 
